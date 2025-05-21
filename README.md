@@ -143,6 +143,8 @@
 Модели:
 * [NER](https://huggingface.co/DanielNRU/pollen-ner-1400)
 * [RE](https://huggingface.co/DanielNRU/pollen-re-model)
+
+[Grdaio интерфейс](https://huggingface.co/spaces/DanielNRU/PollenNER)
 ---
 
 ## Рекомендации по улучшению
