@@ -141,11 +141,14 @@
 
 Интеграция NER и RE модулей в единую NLP‑конвейерную архитектуру позволяет в реальном времени автоматически обрабатывать пользовательские сообщения Пыльца Club, извлекая топонимы, симптомы, препараты и аллергены и устанавливая между ними семантические связи.
 
-Модели:
+Адаптер модели `DeepPavlov/rubert-base-cased`:
 * [NER](https://huggingface.co/DanielNRU/pollen-ner)
+
+Модель:
 * [RE](https://huggingface.co/DanielNRU/pollen-re)
 
 [Gradio интерфейс](https://huggingface.co/spaces/DanielNRU/PollenNER)
+![Gradio интерфейс](gradio.png)
 
 ---
 
