@@ -1,4 +1,4 @@
-# 🌿 PollenNER+RE: Извлечение сущностей и отношений для Пыльца Club
+# 🌿 PollenNER+RE: Извлечение именованных сущностей и отношений между ними
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/) [![Gradio](https://img.shields.io/badge/gradio-4.0%2B-orange)](https://gradio.app/) [![HuggingFace](https://img.shields.io/badge/huggingface-models-yellow)](https://huggingface.co/DanielNRU) [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
