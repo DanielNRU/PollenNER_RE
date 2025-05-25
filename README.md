@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-<td width="120"><img src="https://pollen.club/wp-content/themes/pollen/img/logo.png" width="80" alt="Pollen Club Logo"></td>
+<td width="120"><img src="http://pollen.club/wp-content/uploads/2017/07/logo2.png" width="80" alt="Pollen Club Logo"></td>
 <td>
 <b>Заказчик:</b> <a href="https://pollen.club/">Пыльца Club</a> — крупнейшее русскоязычное сообщество для людей с пыльцевой аллергией. Платформа помогает пользователям отслеживать риски, делиться опытом и получать актуальную информацию о состоянии воздуха.
 </td>
